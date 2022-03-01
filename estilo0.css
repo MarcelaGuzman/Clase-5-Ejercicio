@@ -1,0 +1,13 @@
+body {
+	background-color: plum;
+}
+
+   h1 {
+	color: purple;
+	text-align: center;
+   }
+   p {
+	color: crimson;
+   font-family: verdana;
+	font-size: 20px;
+   }
